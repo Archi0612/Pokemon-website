@@ -25,3 +25,9 @@ Realtime Pokémon details using React + Vite + TypeScript
 
    ```bash
    git clone https://github.com/Archi0612/pokemon-website.git
+   
+## Video
+
+Watch the video:
+
+[Download Demo Video](video/Pokemon.mp4)
